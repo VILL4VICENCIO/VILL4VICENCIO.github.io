@@ -1,0 +1,32 @@
+body {
+    padding-left: 11em;
+font-family: Georgia, "Times New Roman";
+    color: white;
+background-color: purple}
+ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em; }
+h1 {
+    font-family: Arial, Helvetica,
+    sans-serif}
+    ul.navbar li {   
+        background: white; 
+        margin: 0.5em 0;
+        padding: 0.3em;
+        border-right: 1em solid black}
+    ul.navbar a {
+        text-decoration: underline }
+    a:link {
+        color: blue }
+    a:visited {
+        color: purple }
+        address {
+        margin-top: 1em;
+        padding-top: 3em;
+        border-top: thin dotted }
+    .imagen { padding: 10px; margin: 10px; border: 2px solid black; height: 250; width:250px;}
